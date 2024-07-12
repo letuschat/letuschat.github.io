@@ -1,2 +1,2 @@
-# letuschat.github.io
-Welcome! Let Us Chat!
+# LetUsChat
+## Welcome! Let Us Chat!
